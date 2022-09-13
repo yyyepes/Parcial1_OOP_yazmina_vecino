@@ -1,5 +1,5 @@
 import budget as bd
-print(bd.generadorContra)
+print(bd.generadorContra())
 """
 end
 """
