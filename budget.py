@@ -1,7 +1,9 @@
 import string as str
 import random as rd
 from xmlrpc.client import boolean
-
+"""
+Password generator
+"""
 StringOrd = list(str.ascii_letters)
 Numerico = list(str.digits)
 StringEsp = list("<>!@_-#$%^&*()")
