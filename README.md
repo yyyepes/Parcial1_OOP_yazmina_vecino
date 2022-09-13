@@ -1,7 +1,7 @@
 # Parcial1_OOP_yazmina_vecino
-Repositorio para el parcial 1 de OOP--ing encargado-jdposada
-
+martes/13 de sep
 ejercicio elegido password generator
 
-vamos a crear password
- de forma aleaoria y guardarlas en una lista, con cadena de texto usando ascii_letters
+en linea 7 relleno la losta con todos los caracteres ordinarios 
+en linea 8  relleno todos los numeros que hay
+ despues rellenar con caracteres especiales
